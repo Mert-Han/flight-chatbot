@@ -1,0 +1,16 @@
+Name,Age,PreferredDateTimeFormat,PreferredFlightClass
+Alice,25.0,,
+Bob,30.0,,
+Jeremie,,"%A, %d %B %Y",
+Roger,,"%A, %d %B %Y",
+Lol,,"%A, %d %B %Y",
+Name,,"%A, %d %B %Y",
+Newname,,"%A, %d %B %Y",
+Jack,,"%A, %d %B %Y",
+Flibber,,"%A, %d %B %Y",
+Prometheus,,"%A, %d %B %Y",
+Julius,,"%A, %d %B %Y",
+Chewbacca,,"%A, %d %B %Y",
+Burt,,"%A, %d %B %Y",economy
+No,,"%A, %d %B %Y",
+Jessica,,"%A, %d %B %Y",
