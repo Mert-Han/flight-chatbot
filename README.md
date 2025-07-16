@@ -60,8 +60,6 @@ Key findings:
 - Allow users to modify bookings before final confirmation.
 - Replace random flight data with a consistent or real-world data source.
 
-## Author
+## Contact <a id="contact"></a>
 
-Mert-Han Harry
-
-Email: contact.merthanharry@gmail.uk 
+*Mert-Han H* – `contact.merthanharry@gmail.com` 
