@@ -1,0 +1,19 @@
+Booking ID,Name,Flight Type,Date,Origin,Destination,Class
+FXJLBK,Dan,Departure,2024-12-21,Rome,London,Economy
+7RFA18,Mert,Departure,2025-01-06,London,Singapore,Economy
+7RFA18,Mert,Return,2025-01-07,London,Singapore,Economy
+3JEFB0,Mert,Departure,2025-01-09,London,Singapore,Business
+AQXHHN,Sophia,Departure,2025-01-06,London,Singapore,First
+AQXHHN,Sophia,Return,2025-01-07,Singapore,London,Economy
+UVMT6C,Ben,Departure,2025-01-09,Sydney,Singapore,Economy
+UVMT6C,Ben,Return,2025-01-11,Sydney,Singapore,First
+OCNE4O,Sophia,Departure,2024-12-15,London,Rome,Economy
+HHBR5O,Sofia,Departure,2024-12-31,London,Paris,First
+FFWHF3,Joel,Departure,2024-12-14,New York City,Dubai,First
+R1Q3B8,Jack,Departure,2024-12-14,Bangkok,Singapore,First
+3SA0GT,Flibber,Departure,2024-12-16,London,Singapore,First
+XNOUT7,Burt,Departure,2025-01-02,Sydney,London,Economy
+XNOUT7,Burt,Return,2025-01-10,London,Sydney,First
+NMC3TQ,No,Departure,2025-07-17,Tokyo,Paris,First
+1I1456,Jessica,Departure,2025-07-17,London,Paris,First
+1I1456,Jessica,Return,2025-07-18,Paris,London,First
